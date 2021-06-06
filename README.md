@@ -2,7 +2,7 @@
 
 **Overview**
 
-The project performs semantic analysis on movie reviews using data from one of the most visited websites in the world: IMDB! The semantic analysis is done using the low-code Python library, Ktrain.
+The project performs semantic analysis on movie reviews using data from one of the most visited websites in the world: IMDB! The semantic analysis is done using the low-code Python library, Ktrain. You can find the dataset [here](https://ai.stanford.edu/~amaas/data/sentiment/).
 
 Not only is BERT (Bidirectional Encoder Representations from Transformers) a framework that has been pre-trained with the biggest data set ever used, it is also remarkably easy to adapt to different NLP applications, by adding additional output layers. This allows users to create sophisticated and precise models to carry out a wide variety of NLP tasks.
 
